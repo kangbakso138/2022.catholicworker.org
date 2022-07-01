@@ -1,1 +1,4 @@
 
+User-agent: * 
+Allow: /
+http://2022.catholicworker.org/sitemap.xml
